@@ -1,5 +1,5 @@
-# fpp-tool
-FliPPer is an interactive design tool for drawing and checking foundation paper piecing designs. It is based on our SIGGRAPH'21 Paper 'A Mathematical Foundation for Foundation Paper Pieceable Quilts.' For more information, please see our [project webpage](http://web.stanford.edu/~mleake/projects/paperpiecing/)
+# FliPPer
+FliPPer is an interactive design tool for drawing and checking foundation paper piecing designs. It is based on our SIGGRAPH'21 Paper 'A Mathematical Foundation for Foundation Paper Pieceable Quilts.' For more information please see our [project webpage](http://web.stanford.edu/~mleake/projects/paperpiecing/).
 
 [Demo](https://fpptool.herokuapp.com/)
 
