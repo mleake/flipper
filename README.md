@@ -24,6 +24,7 @@ yarn dev (or npm run dev)
 * Design gets built and organized in `src/client/DesignHE.js`, which imports `FaceHE.js`, `SeamHE.js`, `MaximalSeamHE.js`, `VertexHE.js`, and `HypergraphHE.js`. 
 
 ## More info
-Note: repo built on top of [this boilerplate](https://github.com/crsandeep/simple-react-full-stack)
+* Note: repo built on top of [this boilerplate](https://github.com/crsandeep/simple-react-full-stack)
+* For comments and questions, please reach out to <fppresearch2021@gmail.com>
 
 
