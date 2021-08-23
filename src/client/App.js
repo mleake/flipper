@@ -1,22 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './app.css';
-import ReactImage from './react.png';
-import Canvas from './CanvasDrawHE.js';
+import Canvas from './CanvasDrawHE';
 
 
-export default class App extends Component {
-  state = { username: null };
-
-  componentDidMount() {
-    console.log("loaded")
-  }
-
-  render() {
-    const { username } = this.state;
-    return (
-      <div>
-        <Canvas/>
-      </div>
-    );
-  }
-}
+export default () => (
+  <div>
+    <Canvas />
+  </div>
+);

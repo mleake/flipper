@@ -7,10 +7,10 @@ FliPPer is an interactive design tool for drawing and checking foundation paper 
 
 ```bash
 # Clone the repository
-git clone https://github.com/mleake/fpptool
+git clone https://github.com/mleake/flipper
 
 # Go inside the directory
-cd fpptool
+cd flipper
 
 # Install dependencies
 yarn (or npm install)
